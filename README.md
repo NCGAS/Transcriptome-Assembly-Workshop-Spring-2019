@@ -25,7 +25,7 @@ While material will make heavy use of IU machines, the material is transferable 
 |2:15pm		      |Data Management and Movement				                        |Bhavya|
 |3:45pm		      |BREAK                                                      |      |
 |4:00pm		      |Introduction to Assembly and Pipeline			                |Sheri |
-|5:05pm        |BREAk                                                      |      |
+|5:05pm        |BREAK                                                      |      |
 |5:10pm		      |Publicly Available Resources					                      |All   |
 |6:00pm         |We will have reservations at a local tavern, Nick's.  We will be joining you to chat/relax, but you will be responsible for paying for your meal and drinks.                                        |      |
 |               |                                                           |      |
@@ -48,7 +48,8 @@ While material will make heavy use of IU machines, the material is transferable 
 |**Day 3**		  |**Activity**		                                            |**Lead**|
 |               |                                                           |      |
 |9:00am         |DE Analysis Introduction                                   |Sheri |
-|11:00am        |DE Demo- Galaxy                                            |Carrie|
+|10:00am        |DE Demo- Galaxy                                            |Carrie|
+|11:00pm        |BREAK                                                      |      |
 |11:15am        |DE Demo- Command line                                      |Sheri |
 |11:45am        |Final Remarks                                              |Tom   |
 |12:00pm        |Lunch: On your own, there are a couple restaurants nearby you can check out. A few of them are listed in the Welcome document given during registration                                          |      |
