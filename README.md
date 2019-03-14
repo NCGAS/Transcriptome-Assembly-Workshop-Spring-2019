@@ -51,8 +51,8 @@ While material will make heavy use of IU machines, the material is transferable 
 |11:00am        |DE Demo- Galaxy                                            |Carrie|
 |11:15am        |DE Demo- Command line                                      |Sheri |
 |11:45am        |Final Remarks                                              |Tom   |
+|12:00pm        |Lunch: On your own, there are a couple restaurants nearby  |      |
 |               |                                                           |      |
-
 
 # More information 
 
@@ -69,6 +69,5 @@ NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php
 # Contact
 
 Email us at help@ncgas.org 
-\
 Website https://ncgas.org/
 
