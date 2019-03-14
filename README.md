@@ -16,16 +16,16 @@ While material will make heavy use of IU machines, the material is transferable 
 
 |**Day 1**			 |**Activity**							                                |**Lead**|
 |---------------|:----------------------------------------------------------|-----:|
-|8:30 am		    |Registration							                                  |All   |
+|8:30am 		    |Registration							                                  |All   |
 |9:00am		      |Introduction to NCGAS and staff			                      |Tom   | 
 |9:30am		      |Introduction to Clusters and Other Resources		            |Sheri |
-|11:00 am		    |BREAK                                                      |      |
-|11:15 am		    |Optimizing Jobs						                                |Carrie|
-|12:15 pm		    |Data Center Tour/Lunch                                     |      |
+|11:00am		    |BREAK                                                      |      |
+|11:15am		    |Optimizing Jobs						                                |Carrie|
+|12:15pm		    |Data Center Tour/Lunch                                     |      |
 |2:15pm		      |Data Management and Movement				                        |Bhavya|
 |3:45pm		      |BREAK                                                      |      |
 |4:00pm		      |Introduction to Assembly and Pipeline			                |Sheri |
-|5:05 pm        |BREAk                                                      |      |
+|5:05pm        |BREAk                                                      |      |
 |5:10pm		      |Publicly Available Resources					                      |All   |
 |6:00pm         |We will have reservations at a local tavern, Nick's.  We will be joining you to chat/relax, but you will be responsible for paying for your meal and drinks.                                        |      |
 |               |                                                           |      |
@@ -34,15 +34,15 @@ While material will make heavy use of IU machines, the material is transferable 
 |9:00am         |Introduction to Data                                       |Tom   |
 |9:45am         |BREAK                                                      |      |
 |10:00am		    |Using Galaxy							                                  |Carrie|
-|11:30 am		    |BREAK	                  			                            |      |
-|11:45 am		    |Hands on Pipeline Use                                      |Sheri/All|
-|12:45 pm		    |Lunch                                                      |      |
-|1:45 pm		    |Hands on Pipeline Use Cont’d				                        |Sheri/All|
-|2:30 pm		    |BREAK                                                      |      |
-|2:45 pm		    |Annotation Demo							                              |Sheri |
-|3:45 pm 		    |Downstream Analyses Discussion				                      |Sheri |
-|4:15 pm 		    |BREAK                        				                      |      |
-|4:30 pm 		    |KEGG Demo                    				                      |All   |
+|11:30am		    |BREAK	                  			                            |      |
+|11:45am		    |Hands on Pipeline Use                                      |Sheri/All|
+|12:45pm		    |Lunch                                                      |      |
+|1:45pm		    |Hands on Pipeline Use Cont’d				                        |Sheri/All|
+|2:30pm		    |BREAK                                                      |      |
+|2:45pm		    |Annotation Demo							                              |Sheri |
+|3:45pm 		    |Downstream Analyses Discussion				                      |Sheri |
+|4:15pm 		    |BREAK                        				                      |      |
+|4:30pm 		    |KEGG Demo                    				                      |All   |
 |6:00pm         |We will meet at a favorite local bar, the Upstairs.  They do not serve food, but there is plenty of food nearby that you can bring with you!  Again, we will be joining you to chat/relax, but you will be responsible for paying for your meal and drinks.                                                                               |      |
 |               |                                                           |      |
 |**Day 3**		  |**Activity**		                                            |**Lead**|
