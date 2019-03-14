@@ -1,2 +1,64 @@
-# Transcriptome-Assembly-Workshop-Spring-2019
-NCGAS national level workshop on de novo transcriptome assembly on April 29th to May 1st
+# Transcriptome Assembly Workshop, Spring 2019
+National Center for Genome Analysis Support (NCGAS) SPRING WORKSHOP 2019 Schedule\
+April 29th to May1st, 2019 \
+Bloomington, IN 
+
+# Description 
+The workshop includes discussions, lectures, and hands-on tutorials to cover topics important to getting started on constructing and analyzing transcriptomes—without the use of a genome. Material will cover both the availability and use of high performance computing (HPC) resources, alongside the task of assembling a new transcriptome, in order to provide a more comprehensive preparation for this and future bioinformatic tasks.
+
+Transcriptome assembly will consist of using four separate assemblers (Trinity, SOAP de novo, Velvet Oases, and TransABySS), with multiple kmers, to be combined and curated with Evigenes. This combined assembly with multiple parameters is considered much more robust than simply using one assembler, and the NCGAS pipeline streamlines the process and allows for customization if desired. The final transcripts from Evigenes, can then be processed for downstream handling of differential expression (through Trinity wrappers) and annotation (Trinotate).  
+
+**Updates from last workshop** - This workshop we have also included of quality control scripts (through Quast and BUSCO) to assess the quality of the transcrips assembled, and a demo on visualizing KEGG pathways. 
+
+While material will make heavy use of IU machines, the material is transferable to any cluster.
+
+# Schedule 
+
+|**Day 1**			 |**Activity**							                                |**Lead**|
+|---------------|:----------------------------------------------------------|-----:|
+|8:30 am		    |Registration							                                  |All   |
+|9:00am		      |Introduction to NCGAS and staff			                      |Tom   | 
+|9:30am		      |Introduction to Clusters and Other Resources		            |Sheri |
+|11:00 am		    |BREAK                                                      |      |
+|11:15 am		    |Optimizing Jobs						                                |Carrie|
+|12:15 pm		    |Data Center Tour/Lunch                                     |      |
+|2:15pm		      |Data Management and Movement				                        |Bhavya|
+|3:45pm		      |BREAK                                                      |      |
+|4:00pm		      |Introduction to Assembly and Pipeline			                |Sheri |
+|5:05 pm        |BREAk                                                      |      |
+|5:10pm		      |Publicly Available Resources					                      |All   |
+|6:00pm         |We will have reservations at a local tavern, Nick's.  We will be joining you to chat/relax, but you will be responsible for paying for your meal and drinks.                                               |
+|               |                                                           |      |
+|**Day 2**		  |**Activity**		                                            |**Lead**|
+|               |                                                           |      |
+|9:00am		      |Using Galaxy							                                  |Carrie|
+|10:00 am		    |BREAK	                  			                            |      |
+|10:15 am       |Using Galaxy (contd)                                       |Carrie|
+|11:00 am       |BREAK                                                      |      |
+|11:15 am		    |Hands on Pipeline Use                                      |Sheri/All|
+|12:30 pm		    |Lunch                                                      |      |
+|1:30 pm		    |Hands on Pipeline Use Cont’d				                        |Sheri/All|
+|3:00 pm		    |BREAK                                                      |      |
+|3:15 pm		    |DE Analysis 							                                  |Sheri |
+|4:45 pm 		    |Downstream Analyses Discussion				                      |Sheri |
+
+
+# More information 
+
+Scripts used in this workshop - Project_Workshop.tar.gz (under releases)
+\
+\
+Slides and Presentations - https://iu.box.com/s/3xo07ugnl7d3q2p2hy4qy0ow1n7blhtn
+\
+\
+NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php
+\
+\
+HPC keywords - At the end of the workshop, I moved the HPC keywords to the boxlink and the github repository
+
+# Contact
+
+Email us at help@ncgas.org 
+\
+Website https://ncgas.org/
+
