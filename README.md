@@ -27,34 +27,44 @@ While material will make heavy use of IU machines, the material is transferable 
 |4:00pm		      |Introduction to Assembly and Pipeline			                |Sheri |
 |5:05 pm        |BREAk                                                      |      |
 |5:10pm		      |Publicly Available Resources					                      |All   |
-|6:00pm         |We will have reservations at a local tavern, Nick's.  We will be joining you to chat/relax, but you will be responsible for paying for your meal and drinks.                                               |
+|6:00pm         |We will have reservations at a local tavern, Nick's.  We will be joining you to chat/relax, but you will be responsible for paying for your meal and drinks.                                        |      |
 |               |                                                           |      |
 |**Day 2**		  |**Activity**		                                            |**Lead**|
 |               |                                                           |      |
-|9:00am		      |Using Galaxy							                                  |Carrie|
-|10:00 am		    |BREAK	                  			                            |      |
-|10:15 am       |Using Galaxy (contd)                                       |Carrie|
-|11:00 am       |BREAK                                                      |      |
-|11:15 am		    |Hands on Pipeline Use                                      |Sheri/All|
-|12:30 pm		    |Lunch                                                      |      |
-|1:30 pm		    |Hands on Pipeline Use Cont’d				                        |Sheri/All|
-|3:00 pm		    |BREAK                                                      |      |
-|3:15 pm		    |DE Analysis 							                                  |Sheri |
-|4:45 pm 		    |Downstream Analyses Discussion				                      |Sheri |
+|9:00am         |Introduction to Data                                       |Tom   |
+|9:45am         |BREAK                                                      |      |
+|10:00am		    |Using Galaxy							                                  |Carrie|
+|11:30 am		    |BREAK	                  			                            |      |
+|11:45 am		    |Hands on Pipeline Use                                      |Sheri/All|
+|12:45 pm		    |Lunch                                                      |      |
+|1:45 pm		    |Hands on Pipeline Use Cont’d				                        |Sheri/All|
+|2:30 pm		    |BREAK                                                      |      |
+|2:45 pm		    |Annotation Demo							                              |Sheri |
+|3:45 pm 		    |Downstream Analyses Discussion				                      |Sheri |
+|4:15 pm 		    |BREAK                        				                      |      |
+|4:30 pm 		    |KEGG Demo                    				                      |All   |
+|6:00pm         |We will meet at a favorite local bar, the Upstairs.  They do not serve food, but there is plenty of food nearby that you can bring with you!  Again, we will be joining you to chat/relax, but you will be responsible for paying for your meal and drinks.                                                                               |      |
+|               |                                                           |      |
+|**Day 3**		  |**Activity**		                                            |**Lead**|
+|               |                                                           |      |
+|9:00am         |DE Analysis Introduction                                   |Sheri |
+|11:00am        |DE Demo- Galaxy                                            |Carrie|
+|11:15am        |DE Demo- Command line                                      |Sheri |
+|11:45am        |Final Remarks                                              |Tom   |
+|               |                                                           |      |
 
 
 # More information 
 
-Scripts used in this workshop - Project_Workshop.tar.gz (under releases)
+Scripts used in this workshop - Coming up
 \
 \
-Slides and Presentations - https://iu.box.com/s/3xo07ugnl7d3q2p2hy4qy0ow1n7blhtn
+Slides and Presentations - Coming up
 \
 \
 NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php
 \
 \
-HPC keywords - At the end of the workshop, I moved the HPC keywords to the boxlink and the github repository
 
 # Contact
 
