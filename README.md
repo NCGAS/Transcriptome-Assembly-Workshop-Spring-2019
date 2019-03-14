@@ -51,19 +51,16 @@ While material will make heavy use of IU machines, the material is transferable 
 |11:00am        |DE Demo- Galaxy                                            |Carrie|
 |11:15am        |DE Demo- Command line                                      |Sheri |
 |11:45am        |Final Remarks                                              |Tom   |
-|12:00pm        |Lunch: On your own, there are a couple restaurants nearby  |      |
+|12:00pm        |Lunch: On your own, there are a couple restaurants nearby you can check out. A few of them are listed in the Welcome document given during registration                                          |      |
 |               |                                                           |      |
 
 # More information 
 
 Scripts used in this workshop - Coming up
 \
-\
 Slides and Presentations - Coming up
 \
-\
 NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php
-\
 \
 
 # Contact
