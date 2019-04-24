@@ -57,7 +57,7 @@ While material will make heavy use of IU machines, the material is transferable 
 
 # More information 
 
-Scripts used in this workshop - Coming up
+Scripts used in this workshop - Look under releases
 \
 Slides and Presentations - Coming up
 \
