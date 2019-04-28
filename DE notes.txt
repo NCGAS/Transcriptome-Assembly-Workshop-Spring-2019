@@ -34,3 +34,6 @@ nano samples_described
 #run DE analyses (in this case using p=.5 due to the fact this was based on a toy data set with no DE
 cd edgeR.*/ 
 /N/soft/rhel7/trinityrnaseq/2.4.0/Analysis/DifferentialExpression/analyze_diff_expr.pl --matrix ../matrix -P 5e-1 -C 2 --sample ../samples_described
+
+#clustering
+/N/soft/rhel7/trinityrnaseq/2.4.0/Analysis/DifferentialExpression/define_clusters_by_cutting_tree.pl -R  diffExpr.P5e-1_C2.matrix.RData --Ptree 60
