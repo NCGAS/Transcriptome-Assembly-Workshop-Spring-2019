@@ -61,6 +61,8 @@ Scripts used in this workshop - https://github.com/NCGAS/Transcriptome-Assembly-
 \
 Slides and Presentations - https://iu.box.com/s/zeyrrss3zcgdiqwx3g7eblkadc7b576f
 \
+Videos of the presentation - https://www.youtube.com/playlist?list=PLqi-7yMgvZy_IaAiPG89AX2cQH2JY4Ifo&disable_polymer=true
+\
 NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php
 
 
