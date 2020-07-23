@@ -59,12 +59,11 @@ While material will make heavy use of IU machines, the material is transferable 
 
 Scripts used in this workshop - https://github.com/NCGAS/Transcriptome-Assembly-Workshop-Spring-2019/releases
 \
-Slides and Presentations - https://iu.box.com/s/zeyrrss3zcgdiqwx3g7eblkadc7b576f
+Slides and Presentations - https://drive.google.com/drive/folders/1AbuJSq-csjHPnn3MZ4x4fvBFvbo9PV4c?usp=sharing
 \
 Videos of the presentation - https://www.youtube.com/playlist?list=PLqi-7yMgvZy_IaAiPG89AX2cQH2JY4Ifo&disable_polymer=true
 \
-NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php
-
+NCGAS webpage - https://ncgas.org/training/transcriptome-pipeline-documentation.html
 
 # Contact
 
